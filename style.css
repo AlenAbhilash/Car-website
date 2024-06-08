@@ -1,0 +1,249 @@
+* {
+    margin: 0%;
+    padding: 0%;
+
+}
+
+.headcontainer {
+    display: flex;
+    width: 100%;
+    height: 70px;
+}
+
+.headimg {
+    margin-top: 30px;
+    margin-left: 40px;
+    color: black;
+} 
+
+.menu {
+    margin-top: 33px;
+    margin-left: 10px;
+    color: rgb(65, 61, 61);
+    font-family: "your_desired_font", Arial, sans-serif;
+}
+
+.b {
+    margin-left: 600px;
+    margin-top: 30px;
+    width: 50px;
+    height: 30px;
+}
+
+.m {
+    margin-top: 30px;
+    width: 50px;
+    height: 30px;
+}
+
+.w {
+
+    margin-top: 30px;
+    width: 50px;
+    height: 30px;
+}
+
+.banner {
+    width: 100%;
+    height: 707px;
+    object-fit: cover;
+}
+
+.REALITY {
+    position: absolute;
+    top: 30%;
+    left: 5%;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+} 
+
+.dis {
+    position: absolute;
+    top: 35%;
+    left: 5%;
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    font-family: "Raleway", sans-serif;
+}
+
+.ss {
+    position: absolute;
+    top: 38%;
+    left: 5%;
+    color: white;
+    font-size: 15px;
+    font-family: "Raleway", sans-serif;
+}
+
+.Expoler {
+    top: 45%;
+    left: 5%;
+    position: absolute;
+    background-color: rgb(54, 54, 231);
+    color: white;
+    border: white;
+    font-family: "Raleway", sans-serif;
+    width: 150px;
+    height: 50px;
+    font-size: 25px;
+    cursor: pointer;
+}
+
+.Gallery {
+    color: black;
+    font-size: 40px;
+    font-family: "Raleway", sans-serif;
+    margin-top: 20px;
+    margin-left: 100px;
+}
+
+.Gallerydis {
+    color: black;
+    font-size: 20px;
+    font-family: "Raleway", sans-serif;
+    margin-top: 20px;
+    margin-left: 100px;
+}
+
+.row {
+    margin-top: 50px;
+    height: 800px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.col {
+    height: 150px;
+    width: 600px;
+    padding: 10px;
+    margin-top: 10px;
+    display: flex;
+}
+
+.x5 {
+    color: black;
+    font-size: 20px;
+    font-family: "Raleway", sans-serif;
+    margin-left: 100px;
+    width: 3px;
+    height: 3px;
+}
+
+.se {
+    color: black;
+    font-size: 20px;
+    font-family: "Raleway", sans-serif;
+    margin-left: 100px;
+    width: 3px;
+    height: 3px;
+}
+
+.th {
+    color: black;
+    font-size: 20px;
+    font-family: "Raleway", sans-serif;
+    margin-left: 90px;
+    width: 3px;
+    height: 3px;
+}
+
+.fo {
+    color: black;
+    font-size: 20px;
+    font-family: "Raleway", sans-serif;
+    margin-left: 70px;
+    width: 3px;
+    height: 3px;
+}
+
+.fi {
+    color: black;
+    font-size: 20px;
+    font-family: "Raleway", sans-serif;
+    margin-left: 100px;
+    width: 3px;
+    height: 3px;
+}
+
+.si {
+    color: black;
+    font-size: 20px;
+    font-family: "Raleway", sans-serif;
+    margin-left: 120px;
+    width: 3px;
+    height: 3px;
+}
+
+.x5d {
+    margin-right: 20px;
+    margin-top: 50px;
+    color: black;
+    font-size: 13px;
+    font-family: "Raleway", sans-serif;
+    height: 20px;
+}
+
+.buy {
+    width: 200px;
+    height: 50px;
+    float: right;
+    background-color: rgb(54, 54, 231);
+    color: white;
+    border: white;
+    font-family: "Raleway", sans-serif;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+footer {
+    background-color: rgb(56, 51, 51);
+    height: 200px;
+    width: 100%;
+
+}
+
+.footerstart {
+    font-family: "Raleway", sans-serif;
+    font-size: 25px;
+    color: white;
+    text-align: center;
+}
+
+.footercontainer {
+    margin-top: 30px;
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.Instragram {
+    font-family: "Raleway", sans-serif;
+    font-size: 25px;
+    cursor: pointer;
+    color: white;
+
+}
+
+.FaceBook {
+    font-family: "Raleway", sans-serif;
+    font-size: 25px;
+    cursor: pointer;
+    color: white;
+
+
+}
+
+.Twitter {
+    font-family: "Raleway", sans-serif;
+    font-size: 25px;
+    cursor: pointer;
+    color: white;
+    margin-left: 10px;
+}
